@@ -24,7 +24,7 @@ git clone https://github.com/adejam/nextjs-graphql-tutorial.git
 - Install Dependencies
 
 ```bash
-yarn add
+yarn install
 ```
 
 - run the app
